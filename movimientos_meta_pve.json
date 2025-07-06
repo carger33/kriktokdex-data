@@ -1,0 +1,84 @@
+{
+  "Mewtwo": [
+    "Psíquico",
+    "Bola Sombra",
+    "Onda Mental"
+  ],
+  "Metagross": [
+    "Puño Meteoro",
+    "Puño Bala",
+    "Puño Trueno"
+  ],
+  "Garchomp": [
+    "Tierra Viva",
+    "Disparo Lodo",
+    "Cometa Draco"
+  ],
+  "Dialga": [
+    "Cometa Draco",
+    "Garra Dragón",
+    "Cabeza de Hierro"
+  ],
+  "Rayquaza": [
+    "Viento Afín",
+    "Cola Dragón",
+    "Cometa Draco"
+  ],
+  "Salamence": [
+    "Cometa Draco",
+    "Cola Dragón"
+  ],
+  "Shadow Machamp": [
+    "Contraataque",
+    "Puño Dinámico"
+  ],
+  "Rhyperior": [
+    "Romperrocas",
+    "Rompeolas",
+    "Pedrada"
+  ],
+  "Chandelure": [
+    "Fuego Fatuo",
+    "Sofoco",
+    "Bola Sombra"
+  ],
+  "Zekrom": [
+    "Voltio Cruel",
+    "Carga Salvaje"
+  ],
+  "Kyogre": [
+    "Cascada",
+    "Hidrobomba",
+    "Pulso Primigenio"
+  ],
+  "Groudon": [
+    "Tierra Viva",
+    "Pulso Primigenio"
+  ],
+  "Darkrai": [
+    "Finta",
+    "Pulso Umbrío"
+  ],
+  "Gengar": [
+    "Lengüetazo",
+    "Bola Sombra"
+  ],
+  "Dragonite": [
+    "Cola Dragón",
+    "Cometa Draco"
+  ],
+  "Togekiss": [
+    "Encanto",
+    "Brillo Mágico"
+  ],
+  "Lucario": [
+    "Contraataque",
+    "Esfera Aural"
+  ],
+  "Tyranitar": [
+    "Mordisco",
+    "Triturar",
+    "Antiaéreo",
+    "Roca Afilada"
+  ]
+}
